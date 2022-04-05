@@ -47,7 +47,7 @@ INSERT INTO `appointment` (`id`, `staff_id`, `date`) VALUES
 -- --------------------------------------------------------
 
 --
--- Struktura tabeli dla tabeli `patient`
+-- Struktura  tabeli dla tabeli `patient`
 --
 
 CREATE TABLE `patient` (

@@ -1,7 +1,7 @@
 <?php
 $appointmentId = $_REQUEST['id'];
 
-
+//
 ?>
 
 <div style="display:flex; flex-direction: row">

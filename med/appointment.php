@@ -31,7 +31,9 @@ if(isset($_REQUEST['firstName']) && isset($_REQUEST['lastName'])) {
     $q->execute();
     echo "Zapisano na wizytę!";
 }
+//
 ?>
+
 
 
 
